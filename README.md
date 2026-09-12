@@ -1,8 +1,6 @@
 # SQL-BOLT
-Collection of SQL Bolt Lessons and Exercises
-
+SQL Bolt Queries ::
+For learning...
 https://sqlbolt.com/
-
-Great Refresher and Introduction
 
 Completed sep 2026
